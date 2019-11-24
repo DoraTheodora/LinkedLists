@@ -2,12 +2,12 @@
 Linked Lists without a tail (C++) Implementation 
 
 
-All methods must work correctly at least:
-  when the list is Empty
-  when passing a  null pointer
-  when the frontPointer is being altered
-  if a pointer passed as a parameter is not in the list 
-Provide tests that fully test the methods including the above situations
+All methods must work correctly at least: \n
+  \twhen the list is Empty\n
+  \twhen passing a  null pointer\n
+  \twhen the frontPointer is being altered\n
+  \tif a pointer passed as a parameter is not in the list\n
+Provide tests that fully test the methods including the above situations\n\n
 
 // search for the first item with the value d as data 
 //return a pointer to the item found
